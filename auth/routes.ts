@@ -9,7 +9,9 @@ export const publicRoutes = [
 //type of string[]
 export const authRoutes = [
     "/auth/login",
-    "/auth/register"
+    "/auth/register",
+    "/auth/error"
+
 ];
 
 
